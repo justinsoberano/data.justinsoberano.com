@@ -6,7 +6,7 @@
       "title": "Spinder App",
       "description": "In a team of four, we created a music discovery app based on your top songs on Spotify. You were recommended new songs to listen to and save to your library by swiping left or right.",
       "link": "https://github.com/justinsoberano/Spinder",
-      "linkText": "Source code here"
+      "linkText": " Source code here."
     },
     {
       "id": "thisWebsite",
@@ -24,7 +24,7 @@
       "title": "Old website",
       "description": "Inspired by Samsung's T-120 cassette tape cover! Created completely in Javascript and ThreeJS. Doesn't work anymore :( but hey, it looks cool.",
       "link": "https://justinsoberano.github.io/v1-justinsoberano.com/",
-      "linkText": "Go check it out!"
+      "linkText": " Go check it out!"
     },
     {
       "id": "chatGPTwo",
@@ -33,7 +33,7 @@
       "title": "ChatGPTwo",
       "description": "Created using Python and OpenAI's GPT-3.5 Turbo model, you can create your own, personal A.I. chatbot! I created it so I could use it when ChatGPT was at capacity.",
       "link": "https://github.com/justinsoberano/ChatGPTwo/blob/main/src/chat.py",
-      "linkText": "Source code here."
+      "linkText": " Source code here."
     },
     {
       "id": "snippIt",
@@ -42,7 +42,7 @@
       "title": "SnippIt",
       "description": "A simple Python terminal app that allows you to snip certain sections of a song. You can also download full songs for free, but please don't get me in trouble :)",
       "link": "https://github.com/justinsoberano/SnippIt/blob/main/SnippIt.py",
-      "linkText": "Source code here."
+      "linkText": " Source code here."
     }
   ]
   
