@@ -1,7 +1,7 @@
 [
     {
       "id": "seInternAIML",
-      "cssImageClass": "computer-image",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/computer-vision.png",
       "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_2.png",
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_logo_white.png",
       "dates": "JUN '23 - AUG '23",
@@ -10,7 +10,7 @@
     },
     {
       "id": "seInternDigitalTwins",
-      "cssImageClass": "mars-image",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/mars.png",
       "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_1.png",
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_logo_white.png",
       "dates": "AUG '22 - DEC '22",
@@ -19,7 +19,7 @@
     },
     {
       "id": "technicalAssistantISU",
-      "cssImageClass": "durham-image",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/durham.png",
       "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_3.png",
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu.png",
       "dates": "JAN '22 - MAY '22",
