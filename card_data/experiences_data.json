@@ -1,36 +1,36 @@
 [
     {
       "id": "seInternMeta",
-      "image": "https://github.com/justinsoberano/portfolio-data/blob/main/images/experience_images/meta_experience_pre.gif?raw=true",
+      "image": "https://github.com/justinsoberano/portfolio-data/blob/main/images/experience_images/meta/meta_background.gif?raw=true",
       "techStackImage": "",
-      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/meta_logo.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/meta/meta_logo_mono.png",
       "dates": "MAY '24 - AUG '24",
       "title": "Incoming Software Engineering Intern",
       "description": "⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
     },
     {
       "id": "seInternAIML",
-      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/computer-vision.png",
-      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_2.png",
-      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_logo_white.png",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_23/nasa_23_background.png",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_23/nasa_23_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
       "dates": "JUN '23 - AUG '23",
       "title": "Software Engineering Intern",
       "description": "Currently under an NDA for this project. I unfortunately cannot disclose the exact details on the work that I did for this internship in the public domain but I am allowed to speak on it privately! Contact me for more info!"
     },
     {
       "id": "seInternDigitalTwins",
-      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/mars.png",
-      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_1.png",
-      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_logo_white.png",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_22_background.png",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_22_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
       "dates": "AUG '22 - DEC '22",
       "title": "Software Engineering Intern - Digital Twins",
       "description": "In a team of four, we developed digital twins for future space missions. These digital twins will be used to train astronauts for future Artemis missions. Currently being used by NASA's CHAPEA group!"
     },
     {
       "id": "technicalAssistantISU",
-      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/durham.png",
-      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/Tech_3.png",
-      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu.png",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_background.jpg",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_logo_mono.png",
       "dates": "JAN '22 - MAY '22",
       "title": "Technical Assistant",
       "description": "Worked with a team of nine to monitor and administer administration level devices all throughout campus. Helped order IT equipment for various departments when needed."
