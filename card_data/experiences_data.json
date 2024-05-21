@@ -15,7 +15,7 @@
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
       "dates": "Summer 2023",
       "title": "Software Engineering Intern",
-      "description": "Currently under an NDA for this project. I unfortunately cannot disclose the exact details on the work that I did for this internship in the public domain but I am allowed to speak on it privately! Contact me for more info!"
+      "description": "Currently under an NDA for this project. I unfortunately cannot disclose the exact details on the work that I did for this internship in public but I am allowed to speak on it privately! Contact me for more info!"
     },
     {
       "id": "seInternDigitalTwins",
@@ -24,7 +24,7 @@
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
       "dates": "Fall 2022",
       "title": "Software Engineering Intern, Simulations",
-      "description": "In a team of four, we developed digital twins for future space missions. These digital twins will be used to train astronauts for future Artemis missions. Currently being used by NASA's CHAPEA group!"
+      "description": "In a team of four, we developed digital twin habitats. These digital twins will be used to train astronauts for future Artemis missions when we land on Mars! Currently being used by NASA's CHAPEA group."
     },
     {
       "id": "technicalAssistantISU",
@@ -33,7 +33,7 @@
       "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_logo_mono.png",
       "dates": "Spring 2022",
       "title": "Technical Assistant",
-      "description": "Worked with a team of nine to monitor and administer administration level devices all throughout campus. Helped order IT equipment for various administrative departments when needed."
+      "description": "Worked with a team to monitor and administer all administration level devices all throughout campus. Helped order IT equipment for various administrative departments when needed."
     }
   ]
   
