@@ -22,7 +22,7 @@
       "projectImage": "https://github.com/justinsoberano/portfolio-data/blob/main/images/project_images/old_website/old_website_project.gif?raw=true",
       "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/old_website/old_website_techstack.png",
       "title": "Old website",
-      "description": "Inspired by Samsung's T-120 cassette tape cover! Created completely in Javascript and ThreeJS. Doesn't work anymore :( but hey, it looks cool.",
+      "description": "Inspired by Samsung's T-120 cassette tape cover! Created completely in Javascript with the ThreeJS library. It doesn't work anymore :( but it looks cool!",
       "link": "https://justinsoberano.github.io/v1-justinsoberano.com/",
       "linkText": " Go check it out!"
     },
@@ -40,7 +40,7 @@
       "projectImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/snippit/snippit_project.gif",
       "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/snippit/snippit_techstack.png",
       "title": "SnippIt",
-      "description": "A simple Python terminal app that allows you to snip certain sections of a song. You can also download full songs for free, but please don't get me in trouble :)",
+      "description": "A very simple Python terminal app that allows you to snip certain sections of a song. You can also download full songs for free, but please don't get me in trouble :)",
       "link": "https://github.com/justinsoberano/SnippIt/blob/main/SnippIt.py",
       "linkText": " Source code here."
     }
