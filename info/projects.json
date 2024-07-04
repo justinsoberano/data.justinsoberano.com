@@ -38,7 +38,7 @@
     {
       "id": "snippIt",
       "projectImage": "https://data.justinsoberano.com/images/projects/snippit/project.gif",
-      "techStackImage": "https://data.justinsoberano.com/images/projects/tech.png",
+      "techStackImage": "https://data.justinsoberano.com/images/projects/snippit/tech.png",
       "title": "SnippIt",
       "description": "A very simple Python terminal app that allows you to snip certain sections of a song. You can also download full songs for free, but please don't get me in trouble :) ",
       "link": "https://github.com/justinsoberano/SnippIt/blob/main/SnippIt.py",
