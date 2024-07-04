@@ -1,0 +1,39 @@
+[
+    {
+      "id": "seInternMeta",
+      "image": "https://github.com/justinsoberano/portfolio-data/blob/main/images/experience_images/meta/meta_instagram_background.png",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/meta/meta_instagram_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/meta/meta_instagram_logo.png",
+      "dates": "Summer 2024",
+      "title": "Software Engineering Intern",
+      "description": "Working on Instagram Notes for Web! ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    },
+    {
+      "id": "seInternAIML",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_23/nasa_23_background.png",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_23/nasa_23_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
+      "dates": "Summer 2023",
+      "title": "Software Engineering Intern",
+      "description": "Currently under an NDA for this project. I unfortunately cannot disclose the exact details on the work that I did for this internship in public but I am allowed to speak on it privately! Contact me for more info!"
+    },
+    {
+      "id": "seInternDigitalTwins",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_22_background.png",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_22_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/nasa_22/nasa_logo_mono.png",
+      "dates": "Fall 2022",
+      "title": "Software Engineering Intern, Simulations",
+      "description": "In a team of four, we developed digital twin habitats. These digital twins will be used to train astronauts for future Artemis missions when we land on Mars! Currently being used by NASA's CHAPEA group."
+    },
+    {
+      "id": "technicalAssistantISU",
+      "image": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_background.jpg",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_techstack.png",
+      "employerImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/experience_images/isu/isu_logo_mono.png",
+      "dates": "Spring 2022",
+      "title": "Technical Assistant",
+      "description": "Worked with a team to monitor and administer all administration level devices all throughout campus. Helped order IT equipment for various administrative departments when needed."
+    }
+  ]
+  

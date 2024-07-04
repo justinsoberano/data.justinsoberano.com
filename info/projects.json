@@ -1,0 +1,48 @@
+[
+    {
+      "id": "spinderApp",
+      "projectImage": "https://data.justinsoberano.com/images/projects/spinder/project.gif",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/spinder/spinder_techstack.png",
+      "title": "Spinder App",
+      "description": "In a team of four, we created a music discovery app based on your top songs on Spotify. You were recommended new songs to listen to and save to your library by swiping left or right. ",
+      "link": "https://github.com/justinsoberano/Spinder",
+      "linkText": "Source code here."
+    },
+    {
+      "id": "thisWebsite",
+      "projectImage": "https://github.com/justinsoberano/portfolio-data/blob/main/images/project_images/new_website/website_project.gif?raw=true",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/new_website/website_techstack.png",
+      "title": "This website!",
+      "description": "Inspired by 1980s arcades but with a modern twist. Single-handedly designed and created with a mobile-first approach using React and ThreeJS. An excuse to have a domain of my own :D ",
+      "link": "",
+      "linkText": ""
+    },
+    {
+      "id": "oldWebsite",
+      "projectImage": "https://github.com/justinsoberano/portfolio-data/blob/main/images/project_images/old_website/old_website_project.gif?raw=true",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/old_website/old_website_techstack.png",
+      "title": "Old website",
+      "description": "Inspired by Samsung's 2001 T-120 cassette tape cover! Created completely in Javascript with the ThreeJS library. It doesn't work anymore :( but it looks super cool! ",
+      "link": "https://justinsoberano.github.io/v1-justinsoberano.com/",
+      "linkText": "Go check it out!"
+    },
+    {
+      "id": "chatGPTwo",
+      "projectImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/chatgptwo/chatgptwo_project.gif",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/chatgptwo/chatgptwo_techstack.png",
+      "title": "ChatGPTwo",
+      "description": "Created using Python and OpenAI's GPT-3.5 Turbo model, you can create your own, personal A.I. chatbot! I created it so I could use it when ChatGPT was at capacity. ",
+      "link": "https://github.com/justinsoberano/ChatGPTwo/blob/main/src/chat.py",
+      "linkText": "Source code here."
+    },
+    {
+      "id": "snippIt",
+      "projectImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/snippit/snippit_project.gif",
+      "techStackImage": "https://raw.githubusercontent.com/justinsoberano/portfolio-data/main/images/project_images/snippit/snippit_techstack.png",
+      "title": "SnippIt",
+      "description": "A very simple Python terminal app that allows you to snip certain sections of a song. You can also download full songs for free, but please don't get me in trouble :) ",
+      "link": "https://github.com/justinsoberano/SnippIt/blob/main/SnippIt.py",
+      "linkText": "Source code here."
+    }
+  ]
+  
